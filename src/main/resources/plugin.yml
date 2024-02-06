@@ -1,0 +1,9 @@
+name: hubplugin
+version: '${project.version}'
+main: me.jbeast291.hubplugin.Hubplugin
+api-version: '1.20'
+authors: [ jbeast921, jacobysmith ]
+commands:
+  hubplugin:
+    description: Hub Plugin Config Command
+    permission: hubplugin.admin

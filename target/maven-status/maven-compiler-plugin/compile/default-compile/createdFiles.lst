@@ -1,0 +1,5 @@
+me\jbeast291\hubplugin\handlers\PlayerEventHandler.class
+me\jbeast291\hubplugin\Hubplugin.class
+me\jbeast291\hubplugin\savedatahandle\SaveDataHandler.class
+me\jbeast291\hubplugin\commands\hubplugintabcompleter.class
+me\jbeast291\hubplugin\commands\hubplugincommand.class
